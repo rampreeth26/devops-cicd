@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn more react + CICD
+          Learn more react 
         </a>
       </header>
     </div>
